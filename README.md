@@ -1,6 +1,6 @@
 # HashALLtheKirbis.py
 
-<p align="center"><img width=500 alt="HashALLtheKirbis.py" src="https://raw.githubusercontent.com/austynguo/HashALLtheKirbis.py/master/Design/hash-omnom.png"></p>
+<p align="center"><img width=250 alt="HashALLtheKirbis.py" src="https://raw.githubusercontent.com/austynguo/HashALLtheKirbis.py/master/Design/hash-omnom.png"></p>
 
 ## Overview
 `HashALLtheKirbis.py` is a Python script designed to process multiple Kerberos ticket files (`.kirbi`) extracted via Mimikatz. It parses the tickets into a format compatible with password-cracking tools like JohnTheRipper or Hashcat. The script consolidates the extracted tickets into a single output file, prefixed with a timestamp for easy identification.
